@@ -4,7 +4,8 @@
   "description": "[E-Commerce API Render URL](https://node-course-e-commerce.onrender.com/)",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
